@@ -1,0 +1,83 @@
+header{
+    text-align: center;
+    font-size: large;
+    font-style:italic;
+ justify-content: space-between;
+ background-color: rgb(65, 65, 143);
+ color: white;
+ padding: 1px;
+
+
+}
+.Signup-form, .Signin-form{
+
+    max-width :500px;
+    margin: 0 auto;
+    border:5px black outset;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 5px;
+    
+ 
+
+}
+label{
+    display:block;
+    margin-bottom:20px;
+    justify-content: center;
+
+} 
+input{
+    width:100%;
+    padding:8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+ botton{
+    display:inline-block;
+    padding:15px 20px;
+    background-color: beige;
+    color: burlywood ;
+    display: flex;
+    
+Aday makes versatile, essential clothing pieces in an effort to help people build themselves a capsule wardrobe. The purpose of a capsule wardrobe is the ability to do more—i.e., put together as many fantastic outfits as possible—with less. Aday’s products are purposefully machine washable, wrinkle free, comfortable, breathable, and functional.
+border: 2px black outset;
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: transparent
+color: white;
+text-align: center;
+
+  text-align: center;
+  bottom: 0%;
+
+
+
+}
+body{
+    background-color:rgb(172, 158, 158);
+    text-align:center;
+    margin: auto;
+    padding: 10px;
+    background-image: url(https://cdn.shopify.com/s/files/1/0817/7988/4088/files/56npajjIFn8wXYji2oC8dT.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: blueviolet;
+
+    .imgg{
+        text-align:center;
+        text-just   <img src="i.jpeg" alt="brand">
+        <img src="i1.jpeg" alt="brand">ify: distribute;
+        padding: 1px;
+    }
+    .cta 
+    {
+        border: solid 0.5px black
+  border-radius: 20px;
+border-collapse: collapse;
+align-content: c</div>
+    }

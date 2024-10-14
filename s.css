@@ -1,0 +1,104 @@
+/* General Styles */
+body {
+    background-color: rgb(172, 158, 158);
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    background-image: url('clothes.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: blueviolet;
+}
+
+/* Header Styles */
+header {
+    text-align: center;
+    font-size: large;
+   font-style: italic;
+    justify-content: space-between;
+    background-color: rgb(7, 60, 82);
+    color: white;
+    padding: 10px;
+    border: 3px solid white; /* Border width, style, and color */
+    border-radius: 10px;
+
+}
+
+/* Main Content Styles */
+.imgg {
+    margin: 20px auto;
+    padding: 10px;
+    background-color: rgba(119, 7, 95, 0.8);
+    border-radius: 10px;
+    color: #ddd;
+    width: 80%;
+}
+
+.cta {
+    margin-top: 20px;
+}
+
+.cta a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: rgb(7, 60, 82);
+    font-size: 18px;
+    font-family: 'Arial', sans-serif; 
+    font-style: italic;
+    color: rgb(255, 255, 255); /* Change text color here */
+    text-decoration: none;
+    border: 2px solid rgb(255, 255, 255); /* Change border color and width here */
+    border-radius: 20px; /* Change border radius here */
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Footer Styles */
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Form Styles (if needed for Signup/Signin pages) */
+.Signup-form, .Signin-form {
+    max-width: 500px;
+    margin: 20px auto;
+
+    padding: 20px;
+    
+
+    font-style: italic;
+    background-color: rgb(7, 60, 82);
+    color: white;
+
+    border: 3px solid white; /* Border width, style, and color */
+    border-radius: 10px;
+}
+.head_signin
+{ color: #ddd;
+font-size: 20px;
+font-style: italic;}
+
+.head_signup
+{ color: #ddd;
+font-size: 20px;
+font-style: italic;}
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
